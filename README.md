@@ -1,4 +1,4 @@
-# Hi there! I'm Muhammad Tahir 👋
+# Hi there! I'm Sheikh Muhammad Tahir 👋
 
 I am a **Full Stack Developer** and **IoT Enthusiast** dedicated to building functional, scalable, and user-centric applications. I specialize in the **MERN Stack** and **Flutter**, with a strong interest in bridging the gap between software and hardware using Raspberry Pi and Arduino.
 
@@ -7,7 +7,6 @@ I am a **Full Stack Developer** and **IoT Enthusiast** dedicated to building fun
 ### 💼 Experience
 * **Game Arena** | *Software Development Intern* (6 Weeks)
     * Gained hands-on experience in software development workflows and contributed to gaming community solutions.
-    * [📄 View Internship Experience Letter](./WhatsApp%20Image%202026-05-15%20at%2011.09.42%20PM.jpeg)
 
 ---
 
@@ -55,8 +54,8 @@ I am a **Full Stack Developer** and **IoT Enthusiast** dedicated to building fun
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheikhnuml&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhnuml&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sheikhnuml&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhnuml&theme=radical" width="48%" />
 </p>
 
 ---
