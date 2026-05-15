@@ -1,4 +1,4 @@
-# Hi there! I'm Sheikh Muhammad Tahir 👋
+# Hi there! I'm Muhammad Tahir 👋
 
 I am a **Full Stack Developer** and **IoT Enthusiast** dedicated to building functional, scalable, and user-centric applications. I specialize in the **MERN Stack** and **Flutter**, with a strong interest in integrating software with hardware components like Raspberry Pi and Arduino.
 
@@ -51,12 +51,11 @@ I am a **Full Stack Developer** and **IoT Enthusiast** dedicated to building fun
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheikhnuml&show_icons=true&theme=tokyonight&hide_border=true" alt="Tahir's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhnuml&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sheikhnuml&show_icons=true&theme=radical" alt="Tahir's GitHub stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhnuml&layout=compact&theme=radical" alt="Top Languages" width="300" />
 </p>
 
 ---
 
 ### 📫 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile-url)
-- 📧 [Email Me](mailto:your-email@example.com)
+- 📧 [Email Me](mailto:mt2005213@gmail.com)
