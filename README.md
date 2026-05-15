@@ -5,17 +5,23 @@ I am a **Full Stack Developer** and **IoT Enthusiast** dedicated to building fun
 ---
 
 ### 💼 Experience
-* **Game Arena** | *Software Development Intern* (6 Months)
-    * Gained hands-on experience in software workflows and contributed to real-world development environments.
+* **Game Arena** | *Software Development Intern* (6 Weeks)
+    * Gained hands-on experience in software workflows and contributed to gaming community solutions.
+    * [📄 View Internship Experience Letter](./WhatsApp%20Image%202026-05-15%20at%2011.09.42%20PM.jpeg)
 
 ---
 
 ### 🛠 Tech Stack
 
+**Programming Languages:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
 **Frontend & Mobile:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -27,24 +33,23 @@ I am a **Full Stack Developer** and **IoT Enthusiast** dedicated to building fun
 **Hardware & IoT:**
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-*Knowledge of RFID MFRC522, RF/IR Frequencies, and IoT System Architecture.*
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🌐 Web & Full-Stack (MERN)
-* **RFID Campus Management System (FYP):** A comprehensive system for attendance tracking, library records, and cafeteria e-wallet payments integrated with hardware.
-* **Grocery Management System:** A specialized tool for inventory tracking and price management.
-* **Campus Portal:** A centralized platform for academic and administrative management.
-* **E-commerce Website:** A functional online store with product listings and user management features.
+#### 🌐 Web & Full-Stack
+* **RFID Campus Management System (FYP):** Automated attendance and e-wallet system using MERN and Raspberry Pi.
+* **Grocery Management System:** Inventory and price management tool for retail shops.
+* **Campus Portal:** Centralized platform for academic and administrative management.
+* **E-commerce Website:** Full-featured online store with user and product management.
 
 #### 📱 Mobile Applications (Flutter)
-* **Quiz Quest:** A high-performance interactive quiz application.
-* **Dose Alert:** A medicine reminder application designed to help users track their medication schedules.
-* **QR Code Reader & Generator:** A utility tool for scanning and creating customized QR codes.
-* **Note Manager:** A productivity app for organizing and managing daily notes efficiently.
-* **To-Do Application:** A task management app to track daily goals and progress.
+* **Quiz Quest:** High-performance interactive quiz application.
+* **Dose Alert:** Medicine reminder application for tracking medication schedules.
+* **QR Code Reader & Generator:** Utility for custom QR code creation and scanning.
+* **Note Manager:** Productivity app for organizing daily tasks and notes.
+* **To-Do Application:** Task management and goal tracking tool.
 
 ---
 
@@ -58,4 +63,4 @@ I am a **Full Stack Developer** and **IoT Enthusiast** dedicated to building fun
 ---
 
 ### 📫 Let's Connect!
-- 📧 [Email Me](mailto:mt2005213@gmail.com)
+- 📧 [Email Me](mailto:your-email@example.com)
