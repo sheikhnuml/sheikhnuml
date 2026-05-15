@@ -49,10 +49,10 @@ I am a **Full Stack Developer** and **IoT Enthusiast** dedicated to building fun
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheikhnuml&show_icons=true&theme=radical" alt="Tahir's GitHub stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhnuml&layout=compact&theme=radical" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sheikhnuml&show_icons=true&theme=radical&hide_border=true" alt="Tahir's GitHub stats" width="400" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhnuml&theme=radical&hide_border=true" alt="GitHub Streak" width="400" />
 </p>
 
 ---
